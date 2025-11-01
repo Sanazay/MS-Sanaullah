@@ -37,7 +37,6 @@ Currently pursuing my studies at **Colombo Campus, Sri Lanka**, while continuous
 ## 📫 Contact Me
 - 📍 Matale, Sri Lanka  
 - 📧 Email: Sanaullahsaleem19@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/ms-sanaullah](#)  
 - 🖥️ GitHub: [github.com/MS-Sanaullah](#)
 
 ---
