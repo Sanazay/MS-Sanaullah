@@ -1,7 +1,7 @@
 # 👨‍💻 MS.Sanaullah (Ashrafy)
 
 Welcome to my GitHub profile!  
-I'm a passionate **Network & IT Lecturer** with a strong foundation in **Computer Networking, Cloud Computing, and Research Development**.  
+I'm a passionate **Network & IT student** with a strong foundation in **Computer Networking, Cloud Computing, and Research Development**.  
 Currently pursuing my studies at **Colombo Campus, Sri Lanka**, while continuously exploring new technologies and practical implementations.
 
 ---
@@ -41,4 +41,4 @@ Currently pursuing my studies at **Colombo Campus, Sri Lanka**, while continuous
 
 ---
 
-⭐ *“Technology is not just my field — it’s my way to serve knowledge, connect systems, and secure the digital world.”*  
+⭐ *“Technology is not just my field - it’s my way to serve knowledge, connect systems, and secure the digital world.”*  
